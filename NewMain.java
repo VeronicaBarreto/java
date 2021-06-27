@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Alan
+ * @author Veronica Barreto
  */
 import java.util.Scanner;
 
